@@ -1888,3 +1888,21 @@ button {
 
 }
 
+
+/* Memberi jarak antara tombol produk dan section About */
+#about.feature-band {
+  margin-top: 50px !important;
+}
+
+
+
+
+/* Mengurangi jarak tombol ke judul Perlengkapan Kami */
+.products-more {
+  margin-bottom: 20px !important;
+}
+
+.event-projects[data-project-category="Perlengkapan"] {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
